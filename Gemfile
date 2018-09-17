@@ -16,12 +16,18 @@ gem 'coffee-rails', '~> 4.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem 'rails_best_practices'
+gem "twitter-bootstrap-rails"
+gem "jquery-rails"
+gem 'devise'
+gem 'devise-bootstrapped'
 
 gem 'rubocop', require: false
 
 gem 'rubycritic', require: false
 
 gem 'rails-i18n', '~> 5.0.0'
+gem 'bootsnap', require: false
+gem 'apartment'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
