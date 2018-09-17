@@ -1,24 +1,34 @@
-# README
+# Multitenancy - Rails
+Aplicação com vários subdominios
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Exemplo da aplicação: 
 
-Things you may want to cover:
+[www.about.me/rodolfopeixoto](http://www.about.me/rodolfopeixoto) 
 
-* Ruby version
+Versão do Projeto 0.1
+================
 
-* System dependencies
+Sobre esta versão
 
-* Configuration
+---------------------
+Site desenvolvido:
+Utilizei:
+- Ruby 2.5
+- Rails 5.2
+- GEMs
 
-* Database creation
+ATENÇÃO
 
-* Database initialization
+---------------------
 
-* How to run the test suite
+Configuração inicial
 
-* Services (job queues, cache servers, search engines, etc.)
+---------------------
 
-* Deployment instructions
+Documentação
+----------------------
 
-* ...
+
+Desenvolvimento
+---------------------
+-   [Rodolfo Peixoto](http://www.rogpe.me)
