@@ -18,6 +18,12 @@ class CompaniesController < ApplicationController
     end
   end
 
+  def show
+    @company = Company.find_by(subdomain: request.subdomain)
+    @employees = Employee.all
+    @empoyee = Employee.new
+  end
+
   private
 
     def company_params
